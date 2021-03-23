@@ -1,10 +1,12 @@
-# Be Wecolme my GitHub, I´m Bruno Siqueira. ☕🤓💻 <br>
+# Hi, I´m Bruno Siqueira, Welcome to my GitHub. ☕🤓💻 <br>
+
+## "...An expanding creative mind..." <br>
 
 ➡️ Is your company looking for an intern?!? ✔️ <br>
       ➡️ Someone to intern at the junior level of software development backend?!?! ✔️✔️ <br>
             ➡️ I am open to proposals #OpenToWork !!! ✔️✔️✔️ <br>
             
-(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/ <br>
+(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910 <br>
 
 <details>
   <sumary> 
@@ -23,6 +25,10 @@
   (Instagram) = https://www.instagram.com/bruno_sthill <br>
   </sumary>
 </details>
+
+![Bruno G. Siqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogsiqueira&show_icons=true&theme=highcontrast)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunogsiqueira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 
 <!--
