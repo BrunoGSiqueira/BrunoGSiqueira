@@ -8,15 +8,19 @@
   </sumary>
 </details>
 
-(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/
+➡️ If Your Company Is Looking For a Trainee ⬅️ <br>
+      ☑️ Someone To Intern With Software Development Back-End Nivel ☑️ <br>
 
+(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/
+<details>
+  <sumary> 
 + I'm Student of Systems Analysis and Development : ☑️ <br>
 + I'm Also Learning: POO ➕ C ➕ C++ ➕ Python (Nivel Junior) <br>
 + I'm looking for internship : ☑️ <br>
-+ If Your Company Is Looking For Someone To Intern With Software Development Back-End, <br>
 + Creative, With A Great Will To Learn: ☑️ <br>
 + Liked me?!?! ➡️ Send me 📩 : brunogsiq@gmail.com <br>
-
+  </sumary>
+</details>
 <!--
 **BrunoGSiqueira/BrunoGSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
