@@ -16,7 +16,7 @@
   </sumary>
 </details>
 
-➡️ Get to know me more through my social networks ⬅️ <i> (click to expand!) </i>
+➡️ Get to know me more through my social networks ⬅️ 
 <details>
   <sumary> 
   (Facebook ) = https://www.facebook.com/BrunoGSiq    <br>
