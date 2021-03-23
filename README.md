@@ -1,8 +1,16 @@
-### Hi there 👋
+☕🤓💻 Be Wecolme, I´m Bruno Siqueira. 
+
+(Linkedin) = https://www.linkedin.com/in/bruno-siqueira-1910/
+
+Student of Systems Analysis and Development - (IFSC - Gaspar / SC )
+<details>
+  <summary>
+    TESTE
+  </summary>
+</details>  
 
 <!--
 **BrunoGSiqueira/BrunoGSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
