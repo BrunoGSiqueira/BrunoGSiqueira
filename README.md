@@ -1,4 +1,6 @@
-# Hi, I´m Bruno Siqueira, Welcome to my GitHub. ☕🤓💻 <br>
+# Hi, I´m Bruno Siqueira. ☕🤓💻 <br>
+
+## 📘 📖 Welcome to my GitHub.  📑 📚 <br>
 
 ## "...An expanding creative mind..." <br>
 
