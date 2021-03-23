@@ -1,6 +1,12 @@
-☕🤓💻 Be Wecolme, I´m Bruno Siqueira. 
+🇧🇷 ([ ☕🤓💻 ]) 🇧🇷
 
-(Linkedin) = https://www.linkedin.com/in/bruno-siqueira-1910/
+Be Wecolme my GitHub, I´m Bruno Siqueira. 
+
+➡️ Get to know me more through my social networks ⬅️
+
+(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/
+(Instagram) = ⚽    = https://www.instagram.com/bruno_sthill
+
 
 Student of Systems Analysis and Development - (IFSC - Gaspar / SC )
 <details>
