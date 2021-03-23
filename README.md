@@ -1,19 +1,16 @@
-([ ☕🤓💻 ])
+# Be Wecolme my GitHub, I´m Bruno Siqueira. ☕🤓💻 <br>
 
-Be Wecolme my GitHub, I´m Bruno Siqueira. 
+➡️ Get to know me more through my social networks ⬅️ <br>
 
-➡️ Get to know me more through my social networks ⬅️
+(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/ <br>
+(Instagram) = ⚽    = https://www.instagram.com/bruno_sthill <br>
 
-(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/
-(Instagram) = ⚽    = https://www.instagram.com/bruno_sthill
-
-I'm Student of Systems Analysis and Development : ☑️
-I'm Also Learning: POO ➕ C ➕ C++ ➕ Python (Nivel Junior) 
-I'm looking for internship : ☑️
-If Your Company Is Looking For Someone To Intern With Software Development Back-End, Creative, With A Great Will To Learn: ☑️
-Liked me?!?! ☑️ 
-➡️ Send me 📩 : brunogsiq@gmail.com
-
++ I'm Student of Systems Analysis and Development : ☑️ <br>
++ I'm Also Learning: POO ➕ C ➕ C++ ➕ Python (Nivel Junior) <br>
++ I'm looking for internship : ☑️ <br>
++ If Your Company Is Looking For Someone To Intern With Software Development Back-End, <br>
++ Creative, With A Great Will To Learn: ☑️ <br>
++ Liked me?!?! ➡️ Send me 📩 : brunogsiq@gmail.com <br>
 
 <!--
 **BrunoGSiqueira/BrunoGSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
