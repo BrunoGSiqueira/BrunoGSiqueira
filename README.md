@@ -1,7 +1,8 @@
 # Be Wecolme my GitHub, I´m Bruno Siqueira. ☕🤓💻 <br>
 
+➡️ Get to know me more through my social networks ⬅️
 <details>
-  <sumary>  ➡️ Get to know me more through my social networks ⬅️ <i> (click to expand!) </i>
+  <sumary>   <i> (click to expand!) </i>
   (Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/ <br>
   (Instagram) = ⚽    = https://www.instagram.com/bruno_sthill <br>
   </sumary>
