@@ -3,10 +3,13 @@
 ➡️ Get to know me more through my social networks ⬅️ <i> (click to expand!) </i>
 <details>
   <sumary> 
-  (Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/ <br>
-  (Instagram) = ⚽    = https://www.instagram.com/bruno_sthill <br>
+  (Facebook ) = https://www.facebook.com/BrunoGSiq    <br>
+  (Instagram) = https://www.instagram.com/bruno_sthill <br>
   </sumary>
 </details>
+
+(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/
+
 + I'm Student of Systems Analysis and Development : ☑️ <br>
 + I'm Also Learning: POO ➕ C ➕ C++ ➕ Python (Nivel Junior) <br>
 + I'm looking for internship : ☑️ <br>
