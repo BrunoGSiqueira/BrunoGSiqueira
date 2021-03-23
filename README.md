@@ -1,18 +1,11 @@
 # Be Wecolme my GitHub, I´m Bruno Siqueira. ☕🤓💻 <br>
 
-➡️ Get to know me more through my social networks ⬅️ <i> (click to expand!) </i>
-<details>
-  <sumary> 
-  (Facebook ) = https://www.facebook.com/BrunoGSiq    <br>
-  (Instagram) = https://www.instagram.com/bruno_sthill <br>
-  </sumary>
-</details>
-
 ➡️ Is your company looking for an intern?!? ✔️ <br>
       ➡️ Someone to intern at the junior level of software development backend?!?! ✔️✔️ <br>
             ➡️ I am open to proposals #OpenToWork !!! ✔️✔️✔️ <br>
             
-(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/
+(Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/ <br>
+
 <details>
   <sumary> 
 + I'm Student of Systems Analysis and Development : ☑️ <br>
@@ -22,6 +15,16 @@
 + Liked me?!?! ➡️ Send me 📩 : brunogsiq@gmail.com <br>
   </sumary>
 </details>
+
+➡️ Get to know me more through my social networks ⬅️ <i> (click to expand!) </i>
+<details>
+  <sumary> 
+  (Facebook ) = https://www.facebook.com/BrunoGSiq    <br>
+  (Instagram) = https://www.instagram.com/bruno_sthill <br>
+  </sumary>
+</details>
+
+
 <!--
 **BrunoGSiqueira/BrunoGSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
