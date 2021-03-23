@@ -16,7 +16,7 @@
 + I'm Also Learning: POO ➕ C ➕ C++ ➕ Python (Nivel Junior) <br>
 + I'm looking for internship : ☑️ <br>
 + Creative, With A Great Will To Learn: ☑️ <br>
-+ Liked me?!?! ➡️ Send me 📩 : brunogsiq@gmail.com <br>
++ Liked me?!?! ➡️ Send 📩 : brunogsiq@gmail.com <br>
   </sumary>
 </details>
 
