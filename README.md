@@ -8,9 +8,10 @@
   </sumary>
 </details>
 
-➡️ If Your Company Is Looking For a Trainee ⬅️ <br>
-      ☑️ Someone To Intern With Software Development Back-End Nivel ☑️ <br>
-
+➡️ Is your company looking for an intern?!? ✔️ <br>
+      ➡️ Someone to intern at the junior level of software development backend?!?! ✔️✔️ <br>
+            ➡️ I am open to proposals #OpenToWork !!! ✔️✔️✔️ <br>
+            
 (Linkedin)  = 👨‍🎓 = https://www.linkedin.com/in/bruno-siqueira-1910/
 <details>
   <sumary> 
