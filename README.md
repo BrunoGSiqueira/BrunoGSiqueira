@@ -6,7 +6,7 @@
 (Instagram) = ⚽    = https://www.instagram.com/bruno_sthill <br>
 
 + I'm Student of Systems Analysis and Development : ☑️ <br>
-+ I'm Also Learning: POO ➕ C ➕ C++ ➕ Python (Nivel Junior) <br>
++ I'm Also Learning: POO ➕ C ➕ C++ ➕ Java (Nivel Junior) <br>
 + I'm looking for internship : ☑️ <br>
 + If Your Company Is Looking For Someone To Intern With Software Development Back-End, <br>
 + Creative, With A Great Will To Learn: ☑️ <br>
